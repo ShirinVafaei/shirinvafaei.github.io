@@ -2,7 +2,7 @@
 layout: page
 title: Image reconstruction from neural activity patterns
 description: with background image
-img: assets/img/img_recon1.jpg
+img: assets/img/img_recon_workflow.jpg
 importance: 1
 category: work
 related_publications: true
