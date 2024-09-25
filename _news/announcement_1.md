@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My study was accepted to presented as poster at Cosyne 2024 
