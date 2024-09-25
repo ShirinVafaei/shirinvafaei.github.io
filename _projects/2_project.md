@@ -2,10 +2,10 @@
 layout: page
 title: Khar dar gel (خر در گل)
 description: 
-img: assets/img/khar1.jpg
+img: assets/img/khar1.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 During my undergraduate studies, we developed a game for Android mobile users, in this game, we had prepared about more than 100 of manipulated images, and users had to guess the Persian proverb associated with that manipulated image. Below are some screen shots of our game.
@@ -23,6 +23,4 @@ During my undergraduate studies, we developed a game for Android mobile users, i
 </div>
 
 
-```
 
-{% endraw %}

@@ -2,10 +2,10 @@
 layout: page
 title: Image reconstruction from neural activity patterns
 description: 
-img: assets/img/img_recon_workflow.jpg
+img: assets/img/img_recon_workflow.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 My first project when delving into computational neuroscience was to reconstruct seen or perceived images from neural activity patterns. I leveraged one of the generative models available at that time, and my algorithm could learn the overall shape, color, and some details of images. It was able to reconstruct the images from fMRI neural activity patterns in a zero-shot manner. Below are some of my results. The top row shows the real images, and the bottom row shows the reconstructed images.
@@ -17,5 +17,5 @@ My first project when delving into computational neuroscience was to reconstruct
     </div>
 </div>
 
----
-{% endraw %}
+
+
